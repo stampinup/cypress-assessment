@@ -1,0 +1,23 @@
+{
+  "name": "stampin-up-cypress-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stampinup/cypress-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stampinup/cypress-assessment/issues"
+  },
+  "homepage": "https://github.com/stampinup/cypress-assessment#readme"
+}
